@@ -1,0 +1,38 @@
+{
+  "name": "nina-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.1.12",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^7.2.3",
+    "babel-runtime": "^6.26.0",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.7.0",
+    "grid-styled": "^5.0.2",
+    "prettier": "^1.14.2",
+    "pure-react-carousel": "^1.13.2",
+    "react": "^16.4.1",
+    "react-apollo": "^2.1.9",
+    "react-dom": "^16.4.1",
+    "react-pdf": "^3.0.5",
+    "react-responsive-carousel": "^3.1.42",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-scrollable-anchor": "^0.6.1",
+    "react-typing-animation": "^1.4.0",
+    "save": "^2.3.2",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
